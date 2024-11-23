@@ -1,6 +1,7 @@
 * {
     font-family: "Montserrat";
     box-sizing: border-box;
+    box-color: red;
     scroll-behavior: smooth;
     background-color: red;
 }
