@@ -177,30 +177,21 @@ nav > a:hover {
     margin-top: 72px;
 }
 
-.service-detail-item {
-    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.1);
+table, td, th {
+  border: 1px solid black;
+  border-color: yellow;
+  background-color: red;
+  color: yellow;
 }
 
-.service-detail-item:hover {
-    transform: scale(1.15);
+table {
+  border-collapse: collapse;
+  width: 90%;
 }
 
-.service-detail-item:hover img {
-    filter: grayscale(0);
-}
+th {
+  height: 75px;
 
-.service-detail-item img {
-    width: 100%;
-    filter: grayscale(1);
-}
-
-.service-detail-item h2 {
-    padding: 0 16px;
-}
-
-.service-detail-item p {
-    font-size: 16px;
-    padding: 0 16px;
 }
 
 #contact h1 {
