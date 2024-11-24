@@ -6,6 +6,13 @@
     background-color: red;
 }
 
+h1{
+   color: white;
+}
+
+p{
+    color: orange;
+}
 html, body {
     padding: 0;
     margin: 0;
